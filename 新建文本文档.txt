@@ -1,0 +1,13 @@
+NEW GREATE 新建
+clone 克隆仓库
+选择gub  here
+de文件目录
+edit下的options
+   输入user name
+  emaile 
+save保存
+commint提交
+在查看的文件夹下 点击隐藏的文件夹会显示git
+点击第三个hard
+
+
